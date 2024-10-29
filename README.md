@@ -1,5 +1,4 @@
-![Beetlejuice_snake](https://github.com/user-attachments/assets/f8f03e59-01d5-4d4a-afb3-0cbada41c693)
-
+![A nerdy snake](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fsneks-n-gecks--70437475498265%2F&psig=AOvVaw30i-lBLEEhbbxSacWgu7av&ust=1730257566308000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjlrPXNsokDFQAAAAAdAAAAABAr)
 - 👋 Hi, I’m Pablo! I'm a self-taugh Python developer.
 - 💻 I’m passionate about coding, solving problems, and learning new technologies ...
 - 🐍 I’m currently learning Python, exploring data management, automation, and web development!
