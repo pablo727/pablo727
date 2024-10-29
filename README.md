@@ -1,4 +1,5 @@
-![A nerdy snake](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fsneks-n-gecks--70437475498265%2F&psig=AOvVaw30i-lBLEEhbbxSacWgu7av&ust=1730257566308000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjlrPXNsokDFQAAAAAdAAAAABAr)
+![snake_nerd](https://github.com/user-attachments/assets/75085ab3-9a06-4f8e-a5eb-3f59c686c2d8)
+
 - 👋 Hi, I’m Pablo! I'm a self-taugh Python developer.
 - 💻 I’m passionate about coding, solving problems, and learning new technologies ...
 - 🐍 I’m currently learning Python, exploring data management, automation, and web development!
