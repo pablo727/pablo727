@@ -1,4 +1,4 @@
-#* Keep Calm & Code On
+# * Keep Calm & Code On
 <img src="https://m.media-amazon.com/images/I/71BtsCPQ1nL._AC_UF1000,1000_QL80_.jpg" alt="Programming stickers" style="width: 100%; max-width: 800px; margin: 10px auto; display: block;">
 
 ```
