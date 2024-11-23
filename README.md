@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/alessiopuppi.blog/wp-content/uploads/2024/06/DALLE-2024-06-14-142506-A-4K-rectangular-image-illustrating-the-versatility-of-Python-programming-The-image-should-show-elements-representing-different-Python-applications-l.webp?fit=640%2C366&ssl=1" alt="Python image" style="width: 100%; max-width: 800px; margin: 10px auto; display: block;">
+<img src="https://m.media-amazon.com/images/I/71BtsCPQ1nL._AC_UF1000,1000_QL80_.jpg" alt="Programming stickers" style="width: 100%; max-width: 800px; margin: 10px auto; display: block;">
 
 - 👋 Hi, I’m Pablo! I'm a self-taugh Python developer.
 - 💻 I’m passionate about coding, solving problems, and learning new technologies ...
