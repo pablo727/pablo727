@@ -7,6 +7,7 @@
 - 🐍 I’m currently learning Python, exploring data management, automation, and web development!
 - 🧠 Goal: Learn SQL and Django. Contribute to open-source projects and collaborate with the developer community.
 - 🔍 Exploring **Github** and learning version control with **Github for Dummies** and **Python Crash Course** books.
+[![Codewars](https://www.codewars.com/users/pablo727/badges/small)](https://www.codewars.com/users/pablo727)
 ```
 <!---
 pablo727/pablo727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
