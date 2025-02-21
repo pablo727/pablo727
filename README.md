@@ -6,7 +6,6 @@
 - 💻 I’m passionate about coding, solving problems, and learning new technologies ...
 - 🐍 I’m currently learning Python, exploring data management, automation, and web development!
 - 🧠 Goal: Learn SQL and Django. Contribute to open-source projects and collaborate with the developer community.
-- 🔍 Exploring **Github** and learning version control with **Github for Dummies** and **Python Crash Course** books.
 ```
 ## Codewars Profile
 Check out my [![Codewars](https://www.codewars.com/users/pablo727/badges/small)](https://www.codewars.com/users/pablo727) to see my coding challenges and progress.
