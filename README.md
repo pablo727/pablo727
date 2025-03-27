@@ -4,8 +4,8 @@
 ```
 - 👋 Hi, I’m Pablo! I'm a self-taugh Python developer.
 - 💻 I’m passionate about coding, solving problems, and learning new technologies ...
-- 🐍 I’m currently learning Python and SQL, exploring data visualization, pytest, and web development!
-- 🧠 Goal: Learn Django. Contribute to open-source projects and collaborate with the developer community.
+- 🐍 I’m currently learning Django, Django REST Framework, SQL and Git!
+- 🧠 Goal: Learn Django and DRF. Contribute to open-source projects and collaborate with the developer community.
 ```
 ## Codewars Profile
 Check out my [![Codewars](https://www.codewars.com/users/pablo727/badges/small)](https://www.codewars.com/users/pablo727) to see my coding challenges and progress.
