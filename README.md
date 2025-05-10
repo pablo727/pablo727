@@ -1,15 +1,39 @@
-# Keep Calm & Code On
-<img src="https://m.media-amazon.com/images/I/71BtsCPQ1nL._AC_UF1000,1000_QL80_.jpg" alt="Programming stickers" style="width: 100%; max-width: 800px; margin: 10px auto; display: block;">
+# Hi, I'm Pablo 👋
 
-```
-- 👋 Hi, I’m Pablo! I'm a self-taugh Python developer.
-- 💻 I’m passionate about coding, solving problems, and learning new technologies ...
-- 🐍 I’m currently learning Django, Django REST Framework, PostgreSQL and Git!
-- 🧠 Goal: Learn Django and DRF. Contribute to open-source projects and collaborate with the developer community.
-```
-## Codewars Profile
-Check out my [![Codewars](https://www.codewars.com/users/pablo727/badges/small)](https://www.codewars.com/users/pablo727) to see my coding challenges and progress.
-<!---
-pablo727/pablo727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring Python Backend Developer | Building real-world apps with Django, Plotly, SQL, and Git.
+
+---
+
+### 🧠 About Me
+
+- 💻 Currently learning Django and PostgreSQL  
+- 📊 I love working with real datasets and creating visualizations with Plotly  
+- 🐍 Most of my projects are built with Python and follow best practices with Git  
+- 🛠️ Practicing daily to land my first junior backend role  
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo727&show_icons=true&theme=github_dark)
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
+
+---
