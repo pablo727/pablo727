@@ -4,7 +4,7 @@
 ```
 - 👋 Hi, I’m Pablo! I'm a self-taugh Python developer.
 - 💻 I’m passionate about coding, solving problems, and learning new technologies ...
-- 🐍 I’m currently learning Django, Django REST Framework, SQL and Git!
+- 🐍 I’m currently learning Django, Django REST Framework, PostgreSQL and Git!
 - 🧠 Goal: Learn Django and DRF. Contribute to open-source projects and collaborate with the developer community.
 ```
 ## Codewars Profile
