@@ -1,6 +1,6 @@
 # Hi, I'm Pablo 👋
 
-Aspiring Python Backend Developer | Building real-world apps with Django, Plotly, SQL, and Git.
+Python Backend Developer | Building real-world apps with Django, Plotly, SQL, and Git.
 
 ---
 
