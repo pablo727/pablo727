@@ -6,7 +6,7 @@ Python Backend Developer | Building real-world apps with Django, Plotly, SQL, an
 
 ### 🧠 About Me
 
-- 💻 Currently learning Django and PostgreSQL  
+- 💻 Currently learning Django, PostgreSQL and Linux command line.  
 - 📊 I love working with real datasets and creating visualizations with Plotly  
 - 🐍 Most of my projects are built with Python and follow best practices with Git  
 - 🛠️ Practicing daily to land my first junior backend role  
