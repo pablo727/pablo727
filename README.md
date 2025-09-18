@@ -27,7 +27,7 @@ Cybersecurity Enthusiast & Python Developer | Learning pentesting, Linux, and Py
 
 ### 📈 GitHub Stats
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo727&show_icons=true&theme=radical&hide_border=true)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo727&show_icons=true&theme=github_dark&token=)
 
 ---
 
