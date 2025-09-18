@@ -1,0 +1,28 @@
+name: Update GitHub Stats
+
+# Trigger daily and allow manual run
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README stats
+        run: |
+          echo "Updating GitHub stats..."
+          # The stats image link will reference your secret token in a safe way
+          sed -i "s|token=.*|token=${{ secrets.GH_STATS_TOKEN }}|" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update GitHub stats" || echo "No changes to commit"
+          git push
