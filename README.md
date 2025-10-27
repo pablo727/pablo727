@@ -25,13 +25,6 @@ Cybersecurity Enthusiast & Python Developer | Learning pentesting, Linux, and Py
 
 ---
 
-### 📈 GitHub Stats
-
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablo727&show_icons=true&theme=github_dark)
-
-
----
-
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rodriguez-sanz-550286292/)
