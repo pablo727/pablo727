@@ -9,7 +9,7 @@ Cybersecurity Enthusiast & Python Developer | Learning pentesting, Linux, and Py
 - 💻 Currently learning Kali Linux, Linux command line, and cybersecurity labs  
 - 🐍 Skilled in Python for scripting and automation  
 - 📊 Enjoy working with datasets for security analysis and visualizations  
-- 🛠️ Practicing daily to land a first cybersecurity junior role  
+- 🛠️ Studying for CompTIA Security+ 701 exam
 
 ---
 
