@@ -21,13 +21,13 @@ Cybersecurity Analyst (Entry-Level) | CompTIA Security+ | Python & Linux Automat
 
 ### 🛠️ Tech Stack
 
-- Wireshark
-- TCP/IP & Networking Fundamentals
-- SIEM
-- Python
-- PostgreSQL
-- Linux command-line skills (Kali, Ubuntu)
-- Git/GitHub (for scripts, labs, repos)
+![Wireshark](https://img.shields.io/badge/Wireshark-009999?style=for-the-badge&logo=wireshark&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-007ACC?style=for-the-badge&logo=none&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-FF6F61?style=for-the-badge&logo=none&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
