@@ -15,7 +15,7 @@ Cybersecurity Analyst (Entry-Level) | CompTIA Security+ | Python & Linux Automat
 
 - 🛡️ CompTIA Security+ (SY0-701) — 2025  
   - Issued by CompTIA  
-  - [Credly Badge](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url)
+  - [![CompTIA Security+ Badge](https://images.credly.com/images/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url.png)](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url)
 
 ---
 
