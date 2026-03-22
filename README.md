@@ -2,44 +2,31 @@
 
 Cybersecurity Analyst (Entry-Level) | CompTIA Security+ | Python & Linux Automation
 
----
-
 ### 🧠 About Me
-
-- 🔍 Focused on SOC analysis, threat detection, and incident response fundamentals
-- 🧪 Hands-on experience with blue-team labs and log analysis exercises
-
----
+Profesional IT con enfoque en SOC analysis, incident response y threat detection. Experiencia práctica en blue-team labs, alert triage y análisis de logs, combinando conocimientos de Linux, Python y automatización de tareas. Busco mi primer rol en SOC/Helpdesk, aportando análisis técnico, resolución de incidencias y capacidad de aprendizaje rápido.
 
 ### 🎓 Certifications
 
-- 🛡️ CompTIA Security+ (SY0-701) — 2025  
-  - Issued by CompTIA  
-  - [![CompTIA Security+ Badge](https://images.credly.com/images/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url.png)](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url)
-
----
+[![CompTIA Security+ Badge](https://images.credly.com/images/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url.png)](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url)  — 2025
+[Let's Defend SOC Analyst Path Certificate](https://app.letsdefend.io/certificate/show/abba1723-56af-46ff-b293-4fd12463faf7) — 2026
+Practical SOC Analyst Associate – TCM PSAA (in progress)
+Next goal: Splunk Power User
 
 ### 🛠️ Tech Stack
-
-![Wireshark](https://img.shields.io/badge/Wireshark-009999?style=for-the-badge&logo=wireshark&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-007ACC?style=for-the-badge&logo=none&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-FF6F61?style=for-the-badge&logo=none&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
+*SOC & Networking*: Wireshark, SIEM, TCP/IP
+*Programming / Automation*: Python, Bash
+*Systems*: Linux (Ubuntu, Kali), Windows, macOS
+*Databases / Backend*: PostgreSQL, SQL, Django
+*Tools*: GitHub, oletools, ProcMon, RegShot
 
 ### 🎯 Current Focus
-
 - SOC analyst skill development: alert triage & log analysis
-- Blue-team labs and hands-on scenarios
-- Python scripting for security automation
-- Preparing for BTL1 (Blue Team Level 1)
+- Hands-on blue-team labs and scenarios
+- Python & Bash scripting for security automation
+- Preparing for *[![Practical SOC Analyst Associate (TCM PSAA)][https://certifications.tcm-sec.com/psaa/]*
+- Next goal: *Splunk Power User*
 
----
-
-### 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-rodriguez-sanz-550286292/)
+### 📂 Projects & Repositories
+- *[![Medium][https://medium.com/@pablo.rodrguezsanz]* articles: análisis de malware, phishing y alertas SOC
+- *GitHub repos*: scripts de seguridad, parsing de logs, automatización de tareas
+- *Django full-stack apps*: backend, APIs y gestión de datos
