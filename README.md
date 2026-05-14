@@ -11,20 +11,13 @@ Profesional IT con enfoque en **SOC analysis, incident response y threat detecti
 
 ### 🎓 Certifications
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
 <!-- PSAA -->
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac" width="150px" alt="PSAA Badge">
+![PSAA Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac)  
+[**Practical SOC Analyst Associate – TCM PSAA**](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac) (2026)
 
 <!-- CompTIA Security+ -->
-<img src="./comptia-security-ce-certification.png" width="150px" alt="CompTIA Security+ Badge">
-
-</div>
-
-<div style="margin-top: 5px;">
-[**Practical SOC Analyst Associate – TCM PSAA**](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac) (2026) &nbsp;&nbsp;|&nbsp;&nbsp; 
+![CompTIA Security+ Badge](./comptia-security-ce-certification.png)  
 [**CompTIA Security+**](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url) (2025)
-</div>
 
 - **Next Goal:** Splunk Power User
 
