@@ -21,6 +21,12 @@ Profesional IT con enfoque en **SOC analysis, incident response y threat detecti
 
 ---
 
+### Course Completions & Lab Paths
+
+🦔[**Lets Defend SOC Analyst Path**](ghhttps://app.letsdefend.io/certificate/show/abba1723-56af-46ff-b293-4fd12463faf7) (2026)
+
+---
+
 ### 🛠️ Tech Stack
 
 **SOC & Networking:** Wireshark, SIEM, TCP/IP  
