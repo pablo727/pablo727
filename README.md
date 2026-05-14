@@ -12,8 +12,7 @@ Profesional IT con enfoque en **SOC analysis, incident response y threat detecti
 ### 🎓 Certifications
 
 <!-- PSAA -->
-![PSAA Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac)  
-[**Practical SOC Analyst Associate – TCM PSAA**](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac) (2026)
+![PSAA Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac)  [**Practical SOC Analyst Associate – TCM PSAA**](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac) (2026)
 
 <!-- CompTIA Security+ --> 
 [**CompTIA Security+**](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url) (2025)
