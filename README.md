@@ -21,9 +21,9 @@ Profesional IT con enfoque en **SOC analysis, incident response y threat detecti
 
 ---
 
-### Course Completions & Lab Paths
+### 🦔 Course Completions & Lab Paths
 
-🦔[**Lets Defend SOC Analyst Path**](https://app.letsdefend.io/certificate/show/abba1723-56af-46ff-b293-4fd12463faf7) (2026)
+[**Lets Defend SOC Analyst Path**](https://app.letsdefend.io/certificate/show/abba1723-56af-46ff-b293-4fd12463faf7) (2026)
 
 ---
 
