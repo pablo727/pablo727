@@ -1,18 +1,24 @@
 # Hi, I'm Pablo 👋
 
-**Cybersecurity Analyst (Entry-Level) | CompTIA Security+ | PSAA TCM | Python & Linux Automation**
+**Cybersecurity Analyst (Entry-Level) | CompTIA Security+ | Python & Linux Automation**
 
 ---
 
 ### 🧠 About Me
-Profesional IT con enfoque en **SOC analysis, incident response y threat detection**. Experiencia práctica en **blue-team labs, alert triage y análisis de logs**, combinando conocimientos de Linux, Python y automatización de tareas. Busco mi primer rol en **SOC**, aportando análisis técnico, resolución de incidencias y capacidad de aprendizaje rápido.
+Profesional IT con enfoque en **SOC analysis, incident response y threat detection**. Experiencia práctica en **blue-team labs, alert triage y análisis de logs**, combinando conocimientos de Linux, Python y automatización de tareas. Busco mi primer rol en **SOC/Helpdesk**, aportando análisis técnico, resolución de incidencias y capacidad de aprendizaje rápido.
 
 ---
 
 ### 🎓 Certifications
 
-[![Security+](https://images.credly.com/images/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url.png)](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url)
-[![PSAA](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac)
+<!-- PSAA -->
+[![PSAA Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/182316377?key=22d39807a895df64b4f9ec1c4f56f60f8c130b4355a807a5b677d3df9f182cac)
+**Practical SOC Analyst Associate – TCM PSAA** (2026)
+
+<!-- CompTIA Security+ -->
+[![CompTIA Security+ Badge](https://images.credly.com/images/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url.png)](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url)
+**CompTIA Security+** (2025)
+
 - **Next Goal:** Splunk Power User
 
 ---
@@ -31,8 +37,8 @@ Profesional IT con enfoque en **SOC analysis, incident response y threat detecti
 - SOC analyst skill development: alert triage & log analysis  
 - Hands-on blue-team labs and scenarios  
 - Python & Bash scripting for security automation  
-- Preparing for **Splunk Power User**  
-- Next goal: **CDSA**  
+- Preparing for **Practical SOC Analyst Associate (TCM PSAA)**  
+- Next goal: **Splunk Power User**  
 
 ---
 
