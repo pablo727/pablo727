@@ -19,7 +19,7 @@ Profesional IT con enfoque en **SOC analysis, incident response y threat detecti
 ![CompTIA Security+ Badge](./comptia-security-ce-certification.png)  
 [**CompTIA Security+**](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url) (2025)
 
-- **Next Goal: **Splunk Power User**
+- **Next Goal:** Splunk Power User
 
 ---
 
@@ -52,4 +52,4 @@ Profesional IT con enfoque en **SOC analysis, incident response y threat detecti
 ### 💡 Pro Tips / Extras
 - All links are clickable for verification  
 - Skills and projects are hands-on, not just theory  
-- Actively updating GitHub with blue-team scripts and SOC labs
+- Actively updating GitHub with blue-team scripts and SOC labs  
