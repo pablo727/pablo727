@@ -5,7 +5,7 @@
 ---
 
 ### 🧠 About Me
-Profesional IT con enfoque en **SOC analysis, incident response y threat detection**. Experiencia práctica en **blue-team labs, alert triage y análisis de logs**, combinando conocimientos de Linux, Python y automatización de tareas. Busco mi primer rol en **SOC/Helpdesk**, aportando análisis técnico, resolución de incidencias y capacidad de aprendizaje rápido.
+Profesional IT con enfoque en **SOC analysis, incident response y threat detection**. Experiencia práctica en **blue-team labs, alert triage y análisis de logs**, combinando conocimientos de Linux, Python y automatización de tareas. Busco mi primer rol en **SOC**, aportando análisis técnico, resolución de incidencias y capacidad de aprendizaje rápido.
 
 ---
 
