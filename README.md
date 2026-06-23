@@ -17,7 +17,7 @@ Profesional IT con enfoque en **SOC analysis, incident response y threat detecti
 <!-- CompTIA Security+ --> 
 <img width="200" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/b514da49-790a-4acf-ac27-474d91eec4e1" /> [**CompTIA Security+**](https://www.credly.com/badges/4d4c21de-cd1f-40df-9b56-11a8bbbe6e22/public_url) (2025)
 
-[**Splunk Core Power User – SPLK 1002**](https://www.credly.com/badges/0aac7e1a-a1e1-4ba6-bcaf-be370a30e5fe/public_url) (2026)
+<img width="200" alt="splunk-core-certified-power-user" src="https://github.com/pablo727/pablo727/edit/main/splunk-core-certified-power-user.png"/>[**Splunk Core Power User – SPLK 1002**](https://www.credly.com/badges/0aac7e1a-a1e1-4ba6-bcaf-be370a30e5fe/public_url) (2026)
 
 ---
 
